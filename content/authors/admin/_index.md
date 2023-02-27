@@ -65,7 +65,9 @@ highlight_name: true
 ---
 I work as an AI Scientist at Invitae. In my role, I am responsible for developing machine learning models for complex and challenging problems in the field of genetics. Some of the projects that I have worked on include developing a probabilistic model for variant interpretation and developing an algorithm to leverage our sequence database together with population genetics to impute missing data for targeted panels.
 
+Beyond the application of ML to biology/genetics, I am interested ML formalisms that leverage structured representations of domain knowledge in the form of graphs and logical rules/theories -- statistical relational learning, probabilistic (logic) programming etc. I have expertise in related tools such as <a href="https://dtai.cs.kuleuven.be/problog/">ProbLog</a> and <a href="https://pyro.ai">Pyro</a>.
+
 <!-- To date, some of my most significant accomplishments include developing a state-of-the-art probabilistic model for variant interpretation, which has become a cornerstone of our product offering. I have also played a key role in developing an innovative algorithm that leverages our extensive sequence database and population genetics to impute missing data for targeted panels, significantly enhancing the accuracy and completeness of our genomic analyses. -->
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/arun_resume_i.pdf" "newtab" >}}resumé{{< /staticref >}}.

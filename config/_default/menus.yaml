@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: CV
+    url: uploads/arun_resume_i.pdf
+    weight: 70
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
