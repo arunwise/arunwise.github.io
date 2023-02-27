@@ -63,9 +63,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I work as an AI Scientist at Invitae. In my role, I am responsible for developing machine learning models for complex and challenging problems in the field of genetics. Some of the projects that I have worked on include developing a probabilistic model for variant interpretation and developing an algorithm to leverage our sequence database together with population genetics to impute missing data for targeted panels.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- To date, some of my most significant accomplishments include developing a state-of-the-art probabilistic model for variant interpretation, which has become a cornerstone of our product offering. I have also played a key role in developing an innovative algorithm that leverages our extensive sequence database and population genetics to impute missing data for targeted panels, significantly enhancing the accuracy and completeness of our genomic analyses. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
