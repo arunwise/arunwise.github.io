@@ -10,7 +10,7 @@ last_name: Nampally
 superuser: true
 
 # Role/position/tagline
-role: AI Scientist
+role: Staff AI Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,9 +63,22 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I work as an AI Scientist at Invitae. In my role, I am responsible for developing machine learning models for complex and challenging problems in the field of genetics. Some of the projects that I have worked on include developing a probabilistic model for variant interpretation and developing an algorithm to leverage our sequence database together with population genetics to impute missing data for targeted panels.
 
-Beyond the application of ML to biology/genetics, I am interested ML formalisms that leverage structured representations of domain knowledge in the form of graphs and logical rules/theories -- statistical relational learning, probabilistic (logic) programming etc. I have expertise in related tools such as <a href="https://dtai.cs.kuleuven.be/problog/">ProbLog</a> and <a href="https://pyro.ai">Pyro</a>.
+I am a computer scientist with a background in logic, probabilistic
+inference/learning and artificial intelligence. Currently at Invitae,
+I apply probabilistic machine learning models for challenging problems
+in computational biology. Some of the projects that I have worked on
+include developing a probabilistic model for variant interpretation
+and developing an algorithm to leverage our sequence database together
+with population genetics to impute missing data for targeted panels.
+
+Beyond the application of ML to biology/genetics, I am interested ML
+formalisms that leverage structured representations of domain
+knowledge in the form of graphs and logical rules/theories --
+statistical relational learning, probabilistic (logic) programming
+etc. I have expertise in related tools such as <a
+href="https://dtai.cs.kuleuven.be/problog/">ProbLog</a> and <a
+href="https://pyro.ai">Pyro</a>.
 
 <!-- To date, some of my most significant accomplishments include developing a state-of-the-art probabilistic model for variant interpretation, which has become a cornerstone of our product offering. I have also played a key role in developing an innovative algorithm that leverages our extensive sequence database and population genetics to impute missing data for targeted panels, significantly enhancing the accuracy and completeness of our genomic analyses. -->
 
