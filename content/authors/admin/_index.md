@@ -18,7 +18,7 @@ organizations:
     url: https://www.invitae.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI, probablistic inference, declarative programming.
 
 # Interests to show in About widget
 interests:
