@@ -80,7 +80,4 @@ etc. I have expertise in related tools such as <a
 href="https://dtai.cs.kuleuven.be/problog/">ProbLog</a> and <a
 href="https://pyro.ai">Pyro</a>.
 
-<!-- To date, some of my most significant accomplishments include developing a state-of-the-art probabilistic model for variant interpretation, which has become a cornerstone of our product offering. I have also played a key role in developing an innovative algorithm that leverages our extensive sequence database and population genetics to impute missing data for targeted panels, significantly enhancing the accuracy and completeness of our genomic analyses. -->
-
-
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/arun_resume_i.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
